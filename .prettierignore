@@ -1,0 +1,10 @@
+.next
+public
+next.config.ts
+package.json
+package-lock.json
+postcss.config.mjs
+tsconfig.json
+README.md
+.env
+.gitignore
